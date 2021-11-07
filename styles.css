@@ -1,0 +1,20 @@
+body {
+	background: black; 
+}
+hr {
+    border: none;
+    color: blue;
+    background-color: blue;
+    height: 3px;
+   }
+p { color: yellow; text-align:center; }
+strong{ color: orange; }
+h1{ color:#00FFFF; font-style: italic; font-weight: bold; text-align:center; }
+h2{ color:#00FFFF; text-decoration: underline; font-weight: bold; text-align:center; }
+h3{ color:#00FFFF; text-align:center; }
+aside {
+    text-align: center;  
+   }
+main {
+    text-align: center;  
+   }
